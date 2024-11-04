@@ -1,0 +1,102 @@
+:root {
+    --text-color: #DBE4EF;
+    --card-
+}
+
+body {
+    backgroud: ('img/bg-desktop.webp');
+  
+
+    font-family: Bai jamjuree;
+}
+body {
+   
+    backgroud: ('img/bg-desktop.webp');
+
+.cartao{
+
+
+
+
+
+
+.cartao_conteudo {
+    backgroud-color: var(--card-front-color);
+    text-align: center;
+    /* backgroud-color: aquamarime; */
+    heigth: 100;
+    transform-style: preserve-3d;
+    transfortion: transform 300ms ease-in-out;
+}
+
+.cartao_conteudo h3 {
+
+
+
+
+position: absolute;
+margin:
+
+
+    backface-visibility: hidden;
+}
+
+
+
+.cartao_conteudo p {
+margin-top:1rem;
+
+
+
+.cartao_conteudo_pergunta p {
+ font-size: 1,4w;
+    color: var(--text-color);
+   font-weight: 500;
+}
+
+.cartao_conteudo_resposta p {
+   color: var(--card-back-color);
+   font-weigth: 700;
+}
+
+.cartao:hover .cartao_conteudo {
+   transform: rotateY(1800deg);
+}
+.cartao.active .cartao_conteudo}
+}
+
+.cartao_conteudo_pergunta,
+.cartao_conteudo_resposta {
+    backface-visibillity: hidden;
+    positions: absulute;
+    height: 100%;
+    width: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+.cartao_conteudo_resposta {
+    transform: rotateY(180deg);
+    background-color;rgba(0, 244, 191, 0.2);
+    border; 4px solid var(--card-back-color);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (max-width: 560px){
+E
+boby {
+    background: url('img/bg-mobblie')
